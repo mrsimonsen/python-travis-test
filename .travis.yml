@@ -3,3 +3,5 @@ rvm:
   - "3.7"
 script:
   - pytest
+notifications:
+  email: never
