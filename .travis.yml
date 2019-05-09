@@ -1,6 +1,7 @@
 language: python
 rvm:
   - "3.7"
+  - "3.6"
 script:
   - pytest
 notifications:
